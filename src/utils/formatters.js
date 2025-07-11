@@ -1,9 +1,9 @@
 import { format } from "date-fns";
 
 export const formatCurrency = (amount) => {
-  return new Intl.NumberFormat("en-US", {
+  return new Intl.NumberFormat("en-GB", {
     style: "currency",
-    currency: "USD",
+    currency: "GBP",
     minimumFractionDigits: 2,
     maximumFractionDigits: 2,
   }).format(amount);
@@ -29,10 +29,10 @@ export const formatRelativeDate = (date) => {
 
 export const formatCompactCurrency = (amount) => {
   if (amount >= 1000000) {
-    return `$${(amount / 1000000).toFixed(1)}M`;
+    return `£${(amount / 1000000).toFixed(1)}M`;
   }
   if (amount >= 1000) {
-    return `$${(amount / 1000).toFixed(1)}K`;
+    return `£${(amount / 1000).toFixed(1)}K`;
   }
   return formatCurrency(amount);
 };
