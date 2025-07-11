@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "name": "Food",
+    "icon": "UtensilsCrossed",
+    "color": "text-orange-600"
+  },
+  {
+    "Id": 2,
+    "name": "Transport",
+    "icon": "Car",
+    "color": "text-blue-600"
+  },
+  {
+    "Id": 3,
+    "name": "Bills",
+    "icon": "Receipt",
+    "color": "text-red-600"
+  },
+  {
+    "Id": 4,
+    "name": "Entertainment",
+    "icon": "Music",
+    "color": "text-purple-600"
+  },
+  {
+    "Id": 5,
+    "name": "Shopping",
+    "icon": "ShoppingBag",
+    "color": "text-pink-600"
+  },
+  {
+    "Id": 6,
+    "name": "Health",
+    "icon": "Heart",
+    "color": "text-green-600"
+  },
+  {
+    "Id": 7,
+    "name": "Education",
+    "icon": "BookOpen",
+    "color": "text-indigo-600"
+  },
+  {
+    "Id": 8,
+    "name": "Travel",
+    "icon": "Plane",
+    "color": "text-yellow-600"
+  },
+  {
+    "Id": 9,
+    "name": "Other",
+    "icon": "MoreHorizontal",
+    "color": "text-gray-600"
+  }
+]

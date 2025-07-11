@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "amount": 45.67,
+    "category": "Food",
+    "description": "Lunch at downtown restaurant",
+    "date": "2024-01-15T12:30:00Z",
+    "createdAt": "2024-01-15T12:30:00Z"
+  },
+  {
+    "Id": 2,
+    "amount": 120.00,
+    "category": "Bills",
+    "description": "Monthly internet bill",
+    "date": "2024-01-14T09:00:00Z",
+    "createdAt": "2024-01-14T09:00:00Z"
+  },
+  {
+    "Id": 3,
+    "amount": 28.99,
+    "category": "Transport",
+    "description": "Gas for car",
+    "date": "2024-01-13T16:45:00Z",
+    "createdAt": "2024-01-13T16:45:00Z"
+  },
+  {
+    "Id": 4,
+    "amount": 85.50,
+    "category": "Entertainment",
+    "description": "Movie tickets and popcorn",
+    "date": "2024-01-12T19:20:00Z",
+    "createdAt": "2024-01-12T19:20:00Z"
+  },
+  {
+    "Id": 5,
+    "amount": 156.78,
+    "category": "Shopping",
+    "description": "Grocery shopping",
+    "date": "2024-01-11T14:15:00Z",
+    "createdAt": "2024-01-11T14:15:00Z"
+  },
+  {
+    "Id": 6,
+    "amount": 65.00,
+    "category": "Health",
+    "description": "Gym membership",
+    "date": "2024-01-10T08:00:00Z",
+    "createdAt": "2024-01-10T08:00:00Z"
+  },
+  {
+    "Id": 7,
+    "amount": 34.25,
+    "category": "Food",
+    "description": "Coffee and breakfast",
+    "date": "2024-01-09T08:30:00Z",
+    "createdAt": "2024-01-09T08:30:00Z"
+  },
+  {
+    "Id": 8,
+    "amount": 250.00,
+    "category": "Bills",
+    "description": "Electric bill",
+    "date": "2024-01-08T10:00:00Z",
+    "createdAt": "2024-01-08T10:00:00Z"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "personName": "John Smith",
+    "amount": 150.00,
+    "description": "Dinner split from last week",
+    "dueDate": "2024-02-01T00:00:00Z",
+    "isPaid": false,
+    "createdAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "personName": "Sarah Johnson",
+    "amount": 75.50,
+    "description": "Concert ticket advance",
+    "dueDate": "2024-01-25T00:00:00Z",
+    "isPaid": false,
+    "createdAt": "2024-01-10T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "personName": "Mike Davis",
+    "amount": 200.00,
+    "description": "Loan for car repair",
+    "dueDate": "2024-02-15T00:00:00Z",
+    "isPaid": false,
+    "createdAt": "2024-01-05T16:20:00Z"
+  },
+  {
+    "Id": 4,
+    "personName": "Emily Wilson",
+    "amount": 50.00,
+    "description": "Grocery shopping split",
+    "dueDate": "2024-01-20T00:00:00Z",
+    "isPaid": true,
+    "createdAt": "2024-01-01T12:00:00Z"
+  },
+  {
+    "Id": 5,
+    "personName": "David Brown",
+    "amount": 125.75,
+    "description": "Birthday party expenses",
+    "dueDate": null,
+    "isPaid": false,
+    "createdAt": "2023-12-28T18:45:00Z"
+  }
+]
